@@ -1,2 +1,2 @@
-# not-found
-This is something idk nothing
+# Account Handler
+Handle accounts easily using this simple Python code run in terminal.
